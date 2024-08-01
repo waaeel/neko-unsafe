@@ -69,7 +69,7 @@
         "installation_mode": "force_installed"
       }
     },
-    "ExtensionUpdate": false,
+    "ExtensionUpdate": true,
     "FirefoxHome": {
       "Highlights": false,
       "Pocket": false,
