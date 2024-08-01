@@ -63,10 +63,6 @@
       "uBlock0@raymondhill.net": {
         "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi",
         "installation_mode": "force_installed"
-      },
-      "violentmonkey@violentmonkey": {
-        "install_url": "https://github.com/violentmonkey/violentmonkey/releases/download/v2.20.0/violentmonkey-2.20.0.xpi",
-        "installation_mode": "force_installed"
       }
     },
     "ExtensionUpdate": true,
