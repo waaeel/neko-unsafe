@@ -14,7 +14,7 @@
       },
     ],
     "CaptivePortal": false,
-    "DisableAppUpdate": false,
+    "DisableAppUpdate": true,
     "DisableBuiltinPDFViewer": true,
     "DisableDeveloperTools": false,
     "DisableFeedbackCommands": true,
@@ -90,7 +90,8 @@
       "extensions.getAddons.showPane": false,
       "places.history.enabled": false,
       "privacy.file_unique_origin": true,
-      "ui.key.menuAccessKeyFocuses": false
+      "ui.key.menuAccessKeyFocuses": false,
+      "browser.download.useDownloadDir": true,
     },
     "PromptForDownloadLocation": false,
     "SanitizeOnShutdown": {
