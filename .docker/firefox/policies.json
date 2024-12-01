@@ -12,6 +12,9 @@
         "Folder": "Pages",
         "Placement": "toolbar"
       },
+      {
+        "URL": "https://campus.wirtschaftsakademie-wien.at/",
+      }
     ],
     "CaptivePortal": false,
     "DisableAppUpdate": true,
